@@ -1,6 +1,5 @@
 # Web-scrapper
 
 ## Links
-    - https://finance.yahoo.com/quote/AMZN?p=AMZN&.tsrc=fin-srch
-    - https://finance.yahoo.com/quote/MSFT?p=MSFT&.tsrc=fin-srch
-    - https://finance.yahoo.com/quote/GOOGL?p=GOOGL&.tsrc=fin-srch
+    - https://query1.finance.yahoo.com/v1/finance/screener?crumb=SizE.5UDs8z&lang=en-US&region=US&formatted=true&corsDomain=finance.yahoo.com
+    - https://stackoverflow.com/questions/44225771/scraping-historical-data-from-yahoo-finance-with-python
