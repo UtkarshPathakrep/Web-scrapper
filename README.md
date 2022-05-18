@@ -6,4 +6,4 @@
     - https://finance.yahoo.com/gainers?count=100&offset=200
 
 ## TODO:
-    - Generate __crumbs__ and __cookies__ as stated in __yahoo_finance.py__ under __header__ dict and __crumbs__ variable.
+- Generate **crumbs** and __cookies__ as stated in __yahoo_finance.py__ under __header__ dict and __crumbs__ variable.
