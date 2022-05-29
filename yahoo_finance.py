@@ -44,5 +44,27 @@ payload = {
 # session = requests.Session()
 r = requests.post(url,headers=headers,data=json.dumps(payload))
 print(json.dumps(r.json(),indent=4))
-with open('test_1.json','w') as f:
+with open('test_2.json','w') as f:
     json.dump(r.json(),f,indent=4)
+
+"""
+- regularMarketPreviousClose
+- regularMarketOpen
+- regularMarketVolume
+- regularMarketDayRange
+- fiftyTwoWeekRange
+- symbol
+- language
+- marketCap
+- market
+- shortName
+- exchange
+- region
+- displayName
+- quoteType
+- currency
+- sharesOutstanding
+- regularMarketPrice
+- longName
+- total (count) 
+"""
